@@ -1,2 +1,2 @@
 # AoiTest
-This is a test sln of AOI write with C++.
+This is a test sln of double link AOI write with C++.
